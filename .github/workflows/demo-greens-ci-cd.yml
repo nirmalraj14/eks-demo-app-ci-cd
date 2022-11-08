@@ -9,7 +9,6 @@ env:
  ECR_REPOSITORY: eks_project
 
 
-
 jobs:
  release:
   name: Release
